@@ -5,6 +5,7 @@
     metersPerUnit = 0.01
     startTimeCode = 1000
     subLayers = [
+        @/Users/panisj/Work/OneDrive - Autodesk/Jobs/collectiveproject001/shots/s001_001/odie01/animation/animated_render.usd@,
         @animated_proxy.usd@
     ]
     timeCodesPerSecond = 24
