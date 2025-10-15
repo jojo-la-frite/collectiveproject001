@@ -73,7 +73,7 @@ def Xform "root"
                     string uisoftmin = "0,0,0"
                 }
             )
-            float inputs:intensity = 1000 (
+            float inputs:intensity = 5000 (
                 displayName = ""
                 sdrMetadata = {
                     string uiorder = "0"
@@ -144,7 +144,7 @@ def Xform "root"
                 }
             )
             token outputs:mtlx:surface.connect = </root/mtl/mtl_electric_arc/open_pbr_surface1.outputs:out>
-            uniform float2 ui:nodegraph:node:pos = (0.05985278, 0.051258054)
+            uniform float2 ui:nodegraph:node:pos = (0.05985278, 0.056813337)
 
             def Shader "open_pbr_surface1" (
                 prepend apiSchemas = ["NodeGraphNodeAPI"]
