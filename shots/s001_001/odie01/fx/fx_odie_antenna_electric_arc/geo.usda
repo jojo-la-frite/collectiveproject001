@@ -1,0 +1,14 @@
+#usda 1.0
+(
+    defaultPrim = "main"
+    metersPerUnit = 0.01
+    upAxis = "Y"
+)
+
+def Xform "main" (
+    kind = "component"
+    prepend references = @/Users/panisj/Library/CloudStorage/OneDrive-Autodesk/Jobs/collectiveproject001/shots/s001_001/odie01/fx/fx_odie_antenna_electric_arc/payload.usda@</main>
+)
+{
+}
+
