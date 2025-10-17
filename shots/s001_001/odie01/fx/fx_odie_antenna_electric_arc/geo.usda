@@ -7,7 +7,7 @@
 
 def Xform "main" (
     kind = "component"
-    prepend references = @/Users/panisj/Library/CloudStorage/OneDrive-Autodesk/Jobs/collectiveproject001/shots/s001_001/odie01/fx/fx_odie_antenna_electric_arc/payload.usda@</main>
+    prepend references = @payload.usda@</main>
 )
 {
 }

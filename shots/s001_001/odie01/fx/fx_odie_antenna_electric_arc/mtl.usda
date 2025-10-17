@@ -8,13 +8,13 @@
 def Xform "main"
 {
     def Scope "render" (
-        prepend references = @/Users/panisj/Library/CloudStorage/OneDrive-Autodesk/Jobs/collectiveproject001/shots/s001_001/odie01/fx/fx_odie_antenna_electric_arc/mtl/mtl_electric_arc.usda@</root>
+        prepend references = @mtl/mtl_electric_arc.usda@</root>
     )
     {
     }
 
     def Scope "proxy" (
-        prepend references = @/Users/panisj/Library/CloudStorage/OneDrive-Autodesk/Jobs/collectiveproject001/shots/s001_001/odie01/fx/fx_odie_antenna_electric_arc/mtl/mtl_electric_arc.usda@</root>
+        prepend references = @mtl/mtl_electric_arc.usda@</root>
     )
     {
     }

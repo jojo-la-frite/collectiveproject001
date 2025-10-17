@@ -12,7 +12,7 @@ def Xform "main"
         uniform token purpose = "render"
 
         def Scope "fx" (
-            prepend payload = @/Users/panisj/Library/CloudStorage/OneDrive-Autodesk/Jobs/collectiveproject001/shots/s001_001/odie01/fx/fx_odie_antenna_electric_arc/geo/render.usda@</root>
+            prepend payload = @geo/render.usda@</root>
         )
         {
         }
@@ -23,7 +23,7 @@ def Xform "main"
         uniform token purpose = "proxy"
 
         def Scope "fx" (
-            prepend payload = @/Users/panisj/Library/CloudStorage/OneDrive-Autodesk/Jobs/collectiveproject001/shots/s001_001/odie01/fx/fx_odie_antenna_electric_arc/geo/proxy.usda@</root>
+            prepend payload = @geo/proxy.usda@</root>
         )
         {
         }
